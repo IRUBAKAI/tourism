@@ -26,7 +26,7 @@ export default function Oleshko() {
             зв’язку з цим було обмежено наукове дослідження регіону. До сьогодні
             у пісках ще можна натрапити на снаряди, що не розірвалися.
           </p>
-          <Link to="/">
+          <Link to="/tourism">
             <button className={styles.btn}>Назад</button>
           </Link>
         </div>
