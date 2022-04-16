@@ -27,7 +27,7 @@ export default function Hort() {
             острова Хортиця, в січні 1648 року, починалося повстання козаків під
             проводом Богдана Хмельницького.
           </p>
-          <Link to='/'><button className={styles.btn}>Назад</button></Link>
+          <Link to='/tourism'><button className={styles.btn}>Назад</button></Link>
         </div>
       </div>
     </>
