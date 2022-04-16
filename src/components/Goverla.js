@@ -24,7 +24,7 @@ export default function Goverla() {
             Hóvár з'явилася близько 1940 року одночасно з мадяризацією деяких
             інших топонімів Закарпаття та Мармарощини[6].
           </p>
-          <Link to="/">
+          <Link to="/tourism">
             <button className={styles.btn}>Назад</button>
           </Link>
         </div>
