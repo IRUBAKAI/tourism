@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tourism/static/css/main.8a7c3dfb.css",
-    "main.js": "/tourism/static/js/main.58c437a8.js",
+    "main.js": "/tourism/static/js/main.6b890757.js",
     "static/media/hort.jpg": "/tourism/static/media/hort.f1cc6d630cc7a58b8e9f.jpg",
     "static/media/mainHort.jpg": "/tourism/static/media/mainHort.58c6e89fb63cfd3206bd.jpg",
     "static/media/goverla.JPG": "/tourism/static/media/goverla.1adbcc53c5482d3fb597.JPG",
@@ -10,10 +10,10 @@
     "static/media/mainGoverla.jpg": "/tourism/static/media/mainGoverla.fda27e90318711b58b6e.jpg",
     "index.html": "/tourism/index.html",
     "main.8a7c3dfb.css.map": "/tourism/static/css/main.8a7c3dfb.css.map",
-    "main.58c437a8.js.map": "/tourism/static/js/main.58c437a8.js.map"
+    "main.6b890757.js.map": "/tourism/static/js/main.6b890757.js.map"
   },
   "entrypoints": [
     "static/css/main.8a7c3dfb.css",
-    "static/js/main.58c437a8.js"
+    "static/js/main.6b890757.js"
   ]
 }
